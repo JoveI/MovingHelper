@@ -258,6 +258,7 @@
 				TargetAttributes = {
 					9B923DFD1B25190E0095F507 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = VV64F6844Y;
 						LastSwiftMigration = 0810;
 					};
 					9B923E141B25190E0095F507 = {
@@ -458,6 +459,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VV64F6844Y;
 				INFOPLIST_FILE = MovingHelper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -469,6 +471,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VV64F6844Y;
 				INFOPLIST_FILE = MovingHelper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
